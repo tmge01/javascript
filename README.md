@@ -16,9 +16,11 @@ classの場合は.をつける
 NodeList(静的)
 <br>
 
+#### 使い分け
 常に最新の情報を取得したい場合はgetElementByで取得する。
 且つこちらのほうがパフォーマンスがよい
 
+ただforで回さなくてもquerySelectorAllを使うと要素をまとめて取得できる面もある。
 
 
 ### querySelectorAll
