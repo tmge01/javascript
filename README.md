@@ -14,6 +14,12 @@ HTMLCollection(動的)
 idの場合#とつける
 classの場合は.をつける
 NodeList(静的)
+<br>
+
+常に最新の情報を取得したい場合はgetElementByで取得する。
+且つこちらのほうがパフォーマンスがよい
+
+
 
 ### querySelectorAll
 複数取りたい場合はquerySelectorAllを使う

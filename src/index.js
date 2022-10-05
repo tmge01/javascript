@@ -13,3 +13,6 @@ console.log(containers_all);
 const container = document.querySelector(".container")
 console.log(container);
 
+const divEL = document.createElement("div")
+console.log(divEL)
+
