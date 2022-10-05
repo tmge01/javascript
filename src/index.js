@@ -3,3 +3,6 @@ console.log(title1);
 
 const title2 = document.querySelector("#title");
 console.log(title1);
+
+const title3 = document.querySelector(".container");
+console.log(title3);
