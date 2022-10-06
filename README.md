@@ -24,7 +24,7 @@ NodeList(静的)
 
 
 ### querySelectorAll
-複数取りたい場合はquerySelectorAllを使う
+複数取りたい場合はquerySelectorAllを使う。
 
 
 
